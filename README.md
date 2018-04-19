@@ -1,2 +1,2 @@
-# Magic-Squares-
+# Magic Squares
 pa1
